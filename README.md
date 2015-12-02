@@ -83,3 +83,5 @@ end
 
 ### Hints and Hurdles
 + A common mistake beginner programmers make is assuming multiple if statements are equal to using `elsif` and `else`. An `if statement` only allows for two possibilities at a time. A statement with `elsif` allows for three or more possibilities. This gives you more options, but you can only chose one out of the bunch.
+
+<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-control-flow' data-visibility='hidden'>View this lesson on Learn.co</a>
